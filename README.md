@@ -1,1 +1,1 @@
-# strun-ai-coach
+git clone https://github.com/ваш-логин/strun-ai-coach.git
